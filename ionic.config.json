@@ -1,0 +1,7 @@
+{
+  "name": "lakbay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
